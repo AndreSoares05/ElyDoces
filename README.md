@@ -66,10 +66,10 @@ Esse planejamento facilitou a organização do desenvolvimento.
 ## 🌐 Acesso ao Projeto
 
 🔗 **Site Online (GitHub Pages):**
-👉 COLE_AQUI_SEU_LINK
+👉 [COLE_AQUI_SEU_LINK](https://andresoares05.github.io/ElyDoces/)
 
 🎥 **Vídeo de Apresentação:**
-👉 COLE_AQUI_LINK_YOUTUBE
+👉[ COLE_AQUI_LINK_YOUTUBE](https://youtu.be/ZWk9xP0S7iA)
 
 ---
 
