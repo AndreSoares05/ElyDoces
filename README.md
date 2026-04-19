@@ -75,19 +75,8 @@ Esse planejamento facilitou a organização do desenvolvimento.
 
 ---
 
-## 🚀 Como Executar
-
-1. Baixe ou clone este repositório
-2. Abra o arquivo `index.html` no navegador
-
----
-
 ## 👨‍💻 Autor
 
-Desenvolvido por **Marcos André**
+Desenvolvido por **Marcos André Soares**
 
 ---
-
-## 📄 Licença
-
-Este projeto é de uso acadêmico.
