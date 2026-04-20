@@ -66,7 +66,7 @@ Esse planejamento facilitou a organização do desenvolvimento.
 ## 🌐 Acesso ao Projeto
 
 🔗 **Site Online (GitHub Pages):**
-👉 [Acessar site ](https://andresoares05.github.io/ElyDoces/)
+👉 [Acessar site ](https://elydoces.netlify.app/)
 
 🎥 **Vídeo de Apresentação:**
 👉[ Acessar YT](https://youtu.be/ZWk9xP0S7iA)
