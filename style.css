@@ -148,7 +148,7 @@
       font-weight: bold;
     }
 
-    /* FOOTER */
+   /* FOOTER */
     footer {
       text-align: center;
       padding: 15px;
@@ -156,6 +156,14 @@
       color: white;
     }
 
+    footer a {
+      color: #0099ff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer a:hover {
+      text-decoration: underline;
+      }
     /* RESPONSIVO */
     @media (max-width: 600px) {
       header h1 {
